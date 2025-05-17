@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# Logs and local config
+*.log
+*.env
+.env.*
+
+# Ignore compiled C files
+*.so
+
+# MacOS junk
+.DS_Store
+
+
+# Ignore all pickle and CSV files
+*.pkl
+*.csv
